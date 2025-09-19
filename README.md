@@ -4,13 +4,12 @@
 
 ## Description
 
-This project utilizes machine learning techniques to predict health insurance premiums.  It leverages various algorithms to build a predictive model based on relevant features.
+This project utilizes machine learning techniques to predict health insurance premiums. It leverages various algorithms to build a predictive model based on relevant features.
 
 ## Key Features
 
 * Predicts health insurance premiums.
-* Uses a robust machine learning model.  (Specific model details are not provided in the current repository.)
-
+* Uses a robust machine learning model.
 
 ## Installation Instructions
 
@@ -32,17 +31,15 @@ This project utilizes machine learning techniques to predict health insurance pr
    pip install -r requirements.txt
    ```
 
-
 ## Technology Stack
 
-* **Python:** Programming language.
-* **Pandas:** Data manipulation and analysis.
-* **NumPy:** Numerical computing.
-* **XGBoost:** Gradient boosting algorithm.
-* **Scikit-learn:** Machine learning library.
-* **Joblib:** For persisting model objects.
-* **Streamlit:** (Likely used for deployment or visualization, though specifics are not provided.)
-
+* **Python:** Programming language
+* **Pandas:** Data manipulation and analysis
+* **NumPy:** Numerical computing
+* **XGBoost:** Gradient boosting algorithm
+* **Scikit-learn:** Machine learning library
+* **Joblib:** For persisting model objects
+* **Streamlit:**  For deployment or visualization
 
 ## Project Structure
 
@@ -59,8 +56,7 @@ ml-project-premium-prediction/
 
 ## Usage Examples
 
-Further details on usage examples require access to the `main.py` and `prediction_helper.py` files and understanding of the implemented model.  The provided information does not offer specific usage instructions beyond installation.
-
+Detailed usage examples will be provided upon further inspection of `main.py` and `prediction_helper.py`.
 
 ## License Information
 
